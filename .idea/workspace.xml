@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f32b147-2036-47e1-b719-166bc6ac36c6" name="Changes" comment="Upto list commiting code">
-      <change afterPath="$PROJECT_DIR$/new directory one/Forlooppractice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new directory one/Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new directory one/Loopsforwhilepracticew3school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/selenium_Edge_chrome _Launch001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/selenium_script002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mushamsaikiran"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mushamsaikiran&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mushamsaikiran/pythonProjectPractice.git",
-    "accountId": "12dc21c6-97dd-4161-9f01-117cf267033a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mushamsaikiran/pythonProjectPractice.git&quot;,
+    &quot;accountId&quot;: &quot;12dc21c6-97dd-4161-9f01-117cf267033a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2hPbah9XzXx4XMG7hpTMTPRS4mH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,25 +48,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Datatypepractice.executor": "Run",
-    "Python.Forlooppractice1.executor": "Run",
-    "Python.Lab01.executor": "Run",
-    "Python.Loopsforwhilepracticew3school.executor": "Run",
-    "Python.Mylist practice.executor": "Run",
-    "Python.Negativelistindexprac.executor": "Run",
-    "Python.Practiceforstring1.executor": "Run",
-    "Python.myTestone.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Datatypepractice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Forlooppractice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loopsforwhilepracticew3school.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mylist practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Negativelistindexprac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practiceforstring1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.myTestone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_Edge_chrome _Launch001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_Launch001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_script002.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="selenium_Edge_chrome _Launch001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kiran\PycharmProjects\pythonProjectPractice_New directoryyy\Selenium_Launching_Browser_ Dir\selenium_Edge_chrome _Launch001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.selenium_Edge_chrome _Launch001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
