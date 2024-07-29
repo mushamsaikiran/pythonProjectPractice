@@ -64,11 +64,13 @@ time.sleep(9)
 print("**************** Find_element Vs Find_elements ")
 
 # Test Scenario 1 : The single web element and  find element method  is matched and working fine ;
-footer_all_Links_31 = driver.find_elements(By.XPATH, "//ul[@class='list']/child::li")
-print("Print showcase text", footer_all_Links_31[2].text)  # Show case
+footer_all_Links_31 = driver.find_elements(By.XPATH, "//ul[@class='list']/child::li/emptyreturn")
+print("find-elemts will continue many but print only 1st element :", footer_all_Links_31)
+# print("Print showcase text", footer_all_Links_31[2].text)  # Show, case
 
-for i in footer_all_Links_31:
-    print("all 31 links text should be displayed ::", i.text)
+# for i in footer_all_Links_31:
+# print("all 31 links text should be displayed ::", i.text)
+
 
 time.sleep(4)
 # driver.back()

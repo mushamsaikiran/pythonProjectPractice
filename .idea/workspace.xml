@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f32b147-2036-47e1-b719-166bc6ac36c6" name="Changes" comment="Commiting the seleniun code and launch browser and locators practice">
-      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Close_Quite_Failedold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Navigation_Commands_Findelements&amp;elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Scrollintoview_Close_Quite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/ImplicVSExplicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Implicit_wait_Vs_Explicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/text_vs_get_attribute_value.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/selenium_script002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/selenium_script002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Navigation_Commands_Findelements&amp;elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Launching_Browser_ Dir/Navigation_Commands_Findelements&amp;elements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,12 @@
     &quot;assignee&quot;: &quot;mushamsaikiran&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mushamsaikiran/pythonProjectPractice.git",
-    "accountId": "20e8ef3d-e61d-4c03-aef8-46ec8cc24cc3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mushamsaikiran/pythonProjectPractice.git&quot;,
+    &quot;accountId&quot;: &quot;20e8ef3d-e61d-4c03-aef8-46ec8cc24cc3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,6 +53,8 @@
   "keyToString": {
     "Python.Datatypepractice.executor": "Run",
     "Python.Forlooppractice1.executor": "Run",
+    "Python.ImplicVSExplicit.executor": "Run",
+    "Python.Implicit_wait_Vs_Explicit_wait.executor": "Run",
     "Python.Lab01.executor": "Run",
     "Python.Loopsforwhilepracticew3school.executor": "Run",
     "Python.Mylist practice.executor": "Run",
@@ -64,12 +66,13 @@
     "Python.selenium_Edge_chrome _Launch001.executor": "Run",
     "Python.selenium_Launch001.executor": "Run",
     "Python.selenium_script002.executor": "Run",
+    "Python.text_vs_get_attribute_value.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Navigation_Commands_Findelements&amp;elements">
+  <component name="RunManager">
     <configuration name="Navigation_Commands_Findelements&amp;elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectPractice" />
       <option name="ENV_FILES" value="" />
